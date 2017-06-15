@@ -534,9 +534,11 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### CSS
 
-"Cascading Style Sheets" find HTML tags and tell the browser how to display them.
+"CSS is an acronym for Cascading Style Sheets. CSS is the language used to style the HTML document. 
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Ralph Williams](http://github.com/darknite23)*
+
 
 #### Javascript
 
